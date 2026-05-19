@@ -7,8 +7,10 @@ We build open source tools for developers and AI agents.
 
 ### Our Projects
 
-- **[GenAlpha](https://github.com/Forge41/genalphacli)** — Convert any API repository into a CLI tool and MCP server, automatically. Supports FastAPI, Django, and OpenAPI specs.
+- **[GenAlpha CLI](https://github.com/Forge41/genalphacli)** — Convert any API repository into a CLI tool and MCP server, automatically. Supports FastAPI, Django, and OpenAPI specs.
+
+- **[nantex](https://github.com/Forge41/nantex)** — LaTeX-to-PDF live preview in your browser. Watch mode, no local LaTeX install needed. `uvx nantex main.tex` and you're done.
 
 ### Get Involved
 
-We welcome contributions! Check out our [contributing guide](https://github.com/Forge41/genalphacli/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions! Check out our repos and open an issue or PR.
